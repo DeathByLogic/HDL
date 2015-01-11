@@ -1,23 +1,5 @@
 `timescale 1us / 1ns
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    21:59:52 10/16/2012 
-// Design Name: 
-// Module Name:    BitCounter 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module BitCounter(CLK, WrEn, Input, Count);
 	// Module Parameters
 	parameter INPUT_WIDTH = 10;
